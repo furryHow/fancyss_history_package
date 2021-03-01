@@ -1,4 +1,4 @@
-# [fancyss - 科学上网](https://hq450.github.io/fancyss/)
+# [fancyss - 网鑫](https://hq450.github.io/fancyss/)
 
 > Fancyss is a project providing tools to across the GFW on asuswrt/merlin/openwrt based router with software center. 
 >
